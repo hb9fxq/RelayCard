@@ -15,7 +15,7 @@ Todo:
   
 see [Conrad8RelayCard.cs](https://github.com/krippendorf/RelayCard/blob/master/ch.kripp.RelayCard/ch.kripp.RelayCard/Conrad8RelayCard.cs) and send your pull requests ;)
 
-Samples: 
+Sample of [Program.cs / command line util ](https://github.com/krippendorf/RelayCard/blob/master/ch.kripp.RelayCard/ch.kripp.ConradRelayCardUtil/Program.cs) usage: 
 <pre>
 -> % mono ch.kripp.ConradRelayCardUtil.exe -dc SETPORT -m '1;10000001' -p /dev/ttyUSB0 
 DEBUG - Setting card port to /dev/ttyUSB0
