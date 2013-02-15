@@ -12,7 +12,8 @@ Todo:
   - Refactor
   - Test with more than one card & Implement Broadcasts
   - Verify card init methods
-  - 
+  
+see [Conrad8RelayCard.cs](https://github.com/krippendorf/RelayCard/blob/master/ch.kripp.RelayCard/ch.kripp.RelayCard/Conrad8RelayCard.cs) and send your pull requests ;)
 
 Samples: 
 <pre>
