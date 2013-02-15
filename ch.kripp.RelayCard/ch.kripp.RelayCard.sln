@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ch.kripp.RelayCard", "ch.kripp.RelayCard\ch.kripp.RelayCard.csproj", "{7A8EC3D0-4844-4F14-9DCB-E90F20897811}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ch.kripp.RelayCardTests", "ch.kripp.RelayCardTests\ch.kripp.RelayCardTests.csproj", "{88BC783C-ED1B-4EC9-89FB-26BB551EEA2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ch.kripp.ConradRelayCardUtil", "ch.kripp.ConradRelayCardUtil\ch.kripp.ConradRelayCardUtil.csproj", "{F827FA6C-86A8-4490-A408-D47C7A66691D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A8EC3D0-4844-4F14-9DCB-E90F20897811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A8EC3D0-4844-4F14-9DCB-E90F20897811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A8EC3D0-4844-4F14-9DCB-E90F20897811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A8EC3D0-4844-4F14-9DCB-E90F20897811}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88BC783C-ED1B-4EC9-89FB-26BB551EEA2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88BC783C-ED1B-4EC9-89FB-26BB551EEA2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88BC783C-ED1B-4EC9-89FB-26BB551EEA2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88BC783C-ED1B-4EC9-89FB-26BB551EEA2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F827FA6C-86A8-4490-A408-D47C7A66691D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F827FA6C-86A8-4490-A408-D47C7A66691D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F827FA6C-86A8-4490-A408-D47C7A66691D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F827FA6C-86A8-4490-A408-D47C7A66691D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
